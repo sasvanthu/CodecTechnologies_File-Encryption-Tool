@@ -1,0 +1,7 @@
+# 🔐 File Encryption Tool
+
+A simple Python tool to encrypt and decrypt files **using a password**.
+
+## 📦 Install dependencies
+```bash
+pip install cryptography
